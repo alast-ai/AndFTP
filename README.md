@@ -1,2 +1,4 @@
 # AndFTP
-An FTP client I'm creating for no good reason. Look at my shite C# skills :D
+An FTP client I'm creating for no good reason.
+Please don't use this.
+Please don't ever use this.
